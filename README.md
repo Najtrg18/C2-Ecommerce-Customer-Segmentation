@@ -19,3 +19,9 @@ Segmenting customers of an e-commerce web to help the marketing team target the 
 - Modeling - clustering : KMeans, DBScan, CAH, Special Clustering
 - Evaluation : Silhouette, DB
 - Pipeline, GridSearchCV 
+
+# Presentation Feedback from Evaluator
+- Relevant variables have been transformed and improve the solution
+- The number of segments and the distribution are adapted to the business and the addition of new customers explained.
+- Stability and shape of clusters mastered 
+- Excellent oral presentation, mastery, synthetic and business oriented.
